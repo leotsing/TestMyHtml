@@ -3,6 +3,8 @@
 
 [link](demo1.html)
 
+[link](/doc/demo1.html)
+
 [link](/demo1.html)
 
 [link](doc/demo1.html)
